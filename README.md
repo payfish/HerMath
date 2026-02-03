@@ -1,5 +1,8 @@
 HerMath is a Math（or other subjects）learning app，built by python
+
+
 文件结构
+```
 HerMath/
 │  # 入口程序
 │  main.py
@@ -21,3 +24,4 @@ HerMath/
     │  __init__.py
     │  common.py    # 后续扩展：通用工具函数（如格式转换、校验等）
     │  db_helper.py # 后续扩展：数据库操作辅助函数
+```
